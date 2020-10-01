@@ -1,7 +1,7 @@
 # README #
 
 # TODO #
-* Slim down jQuery by including only whats used
+* Slim down jQuery by including only what is used
 	* http://developer.telerik.com/featured/trimming-jquery-grunt/
 * Polyfills
 	* Pointer Events Polyfill
